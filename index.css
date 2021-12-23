@@ -8,22 +8,18 @@ p{
 
 
 .headerr{
-
 	font-family: 'Russo One', sans-serif;
 	/* font-size: 1rem; */
 	text-align: center;
 	color: white;
-	height:80vh;
+	height:90vh;
+	padding-top: 6%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	
-	
-	
 	background-image:url("asset/assets/backgrounds/h_img.jpg");
-	
-	
-}
+	}
+
 .logo{
 	margin-top: 10vh;
 margin-bottom: 1rem;
@@ -49,15 +45,15 @@ p{
 	text-align: center;
 }
 .Services{
-	margin-top: 7vh;
+	margin-top: 5vh;
+	padding-top:0.6%;
 	/* font-family: 'Russo One', sans-serif;
 	font-size: 1rem;
 	text-align: center; */
-	height: 55vh;
+	height: 35rem;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: fixed;
 	align-content: center;
 	
 
@@ -71,8 +67,6 @@ padding-top: 18vh;
 margin-top: 15vh;
 
 }
-
-
 H4{
 	padding-top: 5vh;
 	text-align: center;
@@ -84,7 +78,7 @@ H4{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	padding: 1rem 0rem;
+	padding: 4rem 0rem;
 }
 .portfolio{
 	display: flex;
@@ -95,9 +89,8 @@ H4{
 }
 .contact-us{
 	background-image: url("asset/assets/backgrounds/c_image.jpg");
-
+	margin-top: 2%;
 	font-family: 'Russo One', sans-serif;
-	/* font-size: 1rem; */
 	text-align: center;
 	color: white;
 	height:80vh;
@@ -106,17 +99,12 @@ H4{
 	background-size: cover;
 }
 .form{
-
-
 margin: 2rem;
-
 }
 .text{
 	background-color: transparent;
 	width: 35%;
 	border: 0.5px solid aliceblue;
-
-
 }
 .Email{
 	background-color: transparent;
@@ -126,9 +114,7 @@ margin: 2rem;
 }
 ::placeholder{
 	color: white;
-	
-	
-}
+	}
 #text-area{
 background-color: transparent;
 	width: 60%;
@@ -142,6 +128,4 @@ background-color: transparent;
 }
 .studio{
 	margin-top: 1rem;
-	font-size: 0.5rem;
-
 }
