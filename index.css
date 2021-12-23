@@ -7,36 +7,31 @@ p{
 
 
 
-.header{
+.headerr{
 
 	font-family: 'Russo One', sans-serif;
-	font-size: 1rem;
+	/* font-size: 1rem; */
 	text-align: center;
-	height:110vh;
+	color: white;
+	height:80vh;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: fixed;
+	
+	
 	
 	background-image:url("asset/assets/backgrounds/h_img.jpg");
 	
 	
 }
 .logo{
-	margin-top: 30vh;
-	margin-bottom: 2vh;
+	margin-top: 10vh;
+margin-bottom: 1rem;
 
-	width: 3%;
-	/* position: absolute;
-  left: 0px;
-  top: 0px; */
-  z-index: -1;
 }
-.header-elements{
-	margin-top: 5vh;
-}
+
 .mouse-click{
-	margin-top: 25vh;
+	margin-top: 15vh;
 	
 }
 .About{
@@ -77,10 +72,45 @@ margin-top: 15vh;
 
 }
 
-.float-sm-start{
-	background-image:url("asset/assets/services_icons/design_icon.png");
-padding-top: 20vh;
-	background-position: start;
+
+H4{
+	padding-top: 5vh;
+	text-align: center;
+}
+.icons{
+	height: auto;
+}
+.what-we-do{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 1rem 0rem;
+}
+.portfolio{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 1rem 3rem ;
+
+}
+.contact-us{
+	background-image: url("asset/assets/backgrounds/c_image.jpg");
+
+	font-family: 'Russo One', sans-serif;
+	/* font-size: 1rem; */
+	text-align: center;
+	color: white;
+	height:80vh;
+	background-position: center;
 	background-repeat: no-repeat;
-	margin-top: 5vh;
+	background-size: cover;
+}
+.form{
+
+
+margin: 2rem;
+
+}
+.text{
+	
 }
