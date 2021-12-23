@@ -41,11 +41,11 @@ margin-bottom: 1rem;
 }
 .paragraph-1{
 	font-family: 'Roboto', sans-serif;
-	font-size: 0.5em;
+
 }
 p{
 	font-family: 'Roboto', sans-serif;
-	font-size: 0.5em;	
+	
 	text-align: center;
 }
 .Services{
@@ -77,9 +77,9 @@ H4{
 	padding-top: 5vh;
 	text-align: center;
 }
-.icons{
+/* .icons{
 	height: auto;
-}
+} */
 .what-we-do{
 	display: flex;
 	flex-wrap: wrap;
@@ -134,5 +134,14 @@ background-color: transparent;
 	width: 60%;
 	height: 15rem;
 	border: 0.5px solid aliceblue;
+
+}
+.social{
+	text-align: center;
+	padding-top: 3rem;
+}
+.studio{
+	margin-top: 1rem;
+	font-size: 0.5rem;
 
 }
