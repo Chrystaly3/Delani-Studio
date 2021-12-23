@@ -112,5 +112,27 @@ margin: 2rem;
 
 }
 .text{
+	background-color: transparent;
+	width: 35%;
+	border: 0.5px solid aliceblue;
+
+
+}
+.Email{
+	background-color: transparent;
+	width: 35%;
+	border: 0.5px solid aliceblue;
+	margin: 0  15px;
+}
+::placeholder{
+	color: white;
 	
+	
+}
+#text-area{
+background-color: transparent;
+	width: 60%;
+	height: 15rem;
+	border: 0.5px solid aliceblue;
+
 }
