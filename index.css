@@ -1,5 +1,15 @@
+h1 h2 h3{
+	font-family: 'Russo One', sans-serif;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
 .header{
-	font-family: Arial, Helvetica, sans-serif;
+
+	font-family: 'Russo One', sans-serif;
 	font-size: 1rem;
 	text-align: center;
 	height:110vh;
@@ -27,8 +37,50 @@
 }
 .mouse-click{
 	margin-top: 25vh;
+	
 }
 .About{
 	margin-top: 5vh;
 	text-align: center;
+	
+}
+.paragraph-1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.5em;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 0.5em;	
+	text-align: center;
+}
+.Services{
+	margin-top: 7vh;
+	/* font-family: 'Russo One', sans-serif;
+	font-size: 1rem;
+	text-align: center; */
+	height: 55vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: fixed;
+	align-content: center;
+	
+
+	background-image: url("asset/assets/backgrounds/s_image.jpg");
+}
+h3{
+text-align: center;
+color: white;
+font-size: 1em;
+padding-top: 18vh;
+margin-top: 15vh;
+
+}
+
+.float-sm-start{
+	background-image:url("asset/assets/services_icons/design_icon.png");
+padding-top: 20vh;
+	background-position: start;
+	background-repeat: no-repeat;
+	margin-top: 5vh;
 }
