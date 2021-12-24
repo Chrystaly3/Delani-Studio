@@ -116,7 +116,7 @@ margin: 2rem;
 #text-area{
 background-color: transparent;
 	width: 60%;
-	height: 15rem;
+	height: 10rem;
 	border: 0.5px solid aliceblue;
 
 }
@@ -158,4 +158,9 @@ background-color: transparent;
 .portfolio-image-hover:hover{
 	filter: brightness(20%);
 	cursor: pointer;
+	
+}
+#submit{
+background-color: #8E806A;
+align-content:center;
 }
