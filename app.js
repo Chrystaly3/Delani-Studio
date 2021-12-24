@@ -61,3 +61,13 @@ $(document).ready(function(){
 		$(".portfolio-name4").slideToggle("slow")
 		})
 		})
+		$(document).ready(function(){
+			$("images3"),hover(function() {
+			$(".portfolio-name5").slideToggle("slow")
+			})
+			})
+			$(document).ready(function(){
+				$("images3"),hover(function() {
+				$(".portfolio-name6").slideToggle("slow")
+				})
+				})	
