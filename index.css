@@ -12,7 +12,7 @@ p{
 	/* font-size: 1rem; */
 	text-align: center;
 	color: white;
-	height:90vh;
+	height:100vh;
 	padding-top: 6%;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -27,7 +27,7 @@ margin-bottom: 1rem;
 }
 
 .mouse-click{
-	margin-top: 15vh;
+	margin-top: 27vh;
 	
 }
 .About{
@@ -45,25 +45,22 @@ p{
 	text-align: center;
 }
 .Services{
-	margin-top: 5vh;
-	padding-top:0.6%;
+
+
 	/* font-family: 'Russo One', sans-serif;
-	font-size: 1rem;
-	text-align: center; */
-	height: 35rem;
+	font-size: 1rem; */
+	text-align: center; 
+	height: 23rem;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	align-content: center;
-	
-
 	background-image: url("asset/assets/backgrounds/s_image.jpg");
 }
 h3{
 text-align: center;
 color: white;
 font-size: 1em;
-padding-top: 18vh;
+padding-top: 20vh;
 margin-top: 15vh;
 
 }
@@ -84,7 +81,7 @@ H4{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	padding: 1rem 3rem ;
+	padding: 1rem 4rem ;
 
 }
 .contact-us{
