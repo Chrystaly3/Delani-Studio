@@ -130,3 +130,32 @@ background-color: transparent;
  .paragraph-1,.paragraph-3,.paragraph-4{
 	display: none;
 }
+.portfolio-names{
+	width: 70%;
+
+}
+.portfolio-names img{
+	width: 100%;
+	
+}
+.portfolio-image-hover{
+	position: relative;
+}
+.portfolio-image-hover p{
+	position: absolute;
+	font-weight: bold;
+	font-size: 1.3rem;
+	padding: 2% 4%;
+	top: 12%;
+	left: 12%;
+	color: rgb(179, 14, 14);
+	transform: translate(0%, 0%);
+	width: 80%;
+	height: 80%;
+	display: none;
+	border: 3px solid #fff;
+}
+.portfolio-image-hover:hover{
+	filter: brightness(30%);
+	cursor: pointer;
+}

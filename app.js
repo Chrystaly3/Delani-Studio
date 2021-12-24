@@ -22,4 +22,21 @@ $(".paragraph-3").hide();
 });
 });
 
-$
+$(document).ready(function(){
+$("#product-image").click(function(){
+$(".paragraph-4").show();
+$("#product-image").hide();
+});
+
+$(".paragraph-4").click(function(){
+$("#product-image").show();
+$(".paragraph-4").hide();
+});
+});
+
+$(document).ready(function(){
+$("#images1").hover(function(){
+$(".portfolio-name1").slideToggle("slow")
+});
+})
+
