@@ -131,7 +131,7 @@ background-color: transparent;
 	display: none;
 }
 .portfolio-names{
-	width: 70%;
+	width: 75%;
 
 }
 .portfolio-names img{
@@ -148,12 +148,12 @@ background-color: transparent;
 	padding: 2% 4%;
 	top: 12%;
 	left: 12%;
-	color: #fff;
+	color:#fff;
 	transform: translate(0%, 0%);
 	width: 80%;
 	height: 80%;
 	display: none;
-	border: 3px solid #fff;
+	border: 6px solid #06FF00;
 }
 .portfolio-image-hover:hover{
 	filter: brightness(20%);

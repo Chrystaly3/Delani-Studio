@@ -47,27 +47,37 @@ $(".portfolio-name2").slideToggle("slow")
 })
 
 $(document).ready(function(){
-$("images3"),hover(function() {
-$(".portfolio-name2").slideToggle("slow")
+$("#images3").hover(function() {
+$(".portfolio-name3").slideToggle("slow")
 })
 })
 $(document).ready(function(){
-	$("images3"),hover(function() {
-	$(".portfolio-name3").slideToggle("slow")
-	})
-	})
-	$(document).ready(function(){
-		$("images3"),hover(function() {
-		$(".portfolio-name4").slideToggle("slow")
-		})
-		})
-		$(document).ready(function(){
-			$("images3"),hover(function() {
-			$(".portfolio-name5").slideToggle("slow")
-			})
-			})
-			$(document).ready(function(){
-				$("images3"),hover(function() {
-				$(".portfolio-name6").slideToggle("slow")
-				})
-				})	
+$("#images4").hover(function() {
+$(".portfolio-name4").slideToggle("slow")
+})
+})
+$(document).ready(function(){
+$("#images5").hover(function() {
+$(".portfolio-name5").slideToggle("slow")
+})
+})
+$(document).ready(function(){
+$("#images6").hover(function() {
+$(".portfolio-name5").slideToggle("slow")
+})
+})
+$(document).ready(function(){
+$("#images6").hover(function() {
+$(".portfolio-name6").slideToggle("slow")
+})
+})	
+$(document).ready(function(){
+$("#images7").hover(function() {
+$(".portfolio-name7").slideToggle("slow")
+})
+})
+$(document).ready(function(){
+$("#images8").hover(function() {
+$(".portfolio-name8").slideToggle("slow")
+})
+})
