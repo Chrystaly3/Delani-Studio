@@ -81,3 +81,17 @@ $("#images8").hover(function() {
 $(".portfolio-name8").slideToggle("slow")
 })
 })
+$(document).ready(function(){
+$("form#form").submit(function(event){
+ let name=$("input#name").val();
+ let email=$("input#email").val();
+ let message=$("#text-area").val();
+ if(name && email){
+	 alert(name +',' + ' thanks for reaching out to us we shall get back to you as soon as possible!');
+	
+ }
+else{
+	alert("please enter your name and email");
+}
+})
+})
