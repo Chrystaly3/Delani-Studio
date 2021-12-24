@@ -51,3 +51,13 @@ $("images3"),hover(function() {
 $(".portfolio-name2").slideToggle("slow")
 })
 })
+$(document).ready(function(){
+	$("images3"),hover(function() {
+	$(".portfolio-name3").slideToggle("slow")
+	})
+	})
+	$(document).ready(function(){
+		$("images3"),hover(function() {
+		$(".portfolio-name4").slideToggle("slow")
+		})
+		})
