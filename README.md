@@ -13,7 +13,6 @@ Delani Studio project
 "From our past role our firm is responsible for creating cohesive and visually attractive front-end designs. We also do Back-end design to ensure the websites are responsive and user-friendly."
 
 ## Development
-
 Our developers are competent and fluent with latest technologies.
 
 ## Product Management
