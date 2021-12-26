@@ -88,7 +88,7 @@ H4{
 .text{
 	background-color:grey;
 	width: 35%;
-	border: 0.5px solid black;
+	border: 0.5px solid #fff;
 	margin: 0 15px;
 	color: #fff;
 
@@ -96,7 +96,7 @@ H4{
 .email{
 	background-color:grey;
 	width: 35%;
-	border: 0.5px solid black;
+	border: 0.5px solid#fff;
 	margin: 0  15px;
 
 
@@ -104,14 +104,16 @@ H4{
 ::placeholder{
 	color: #fff;
 } 
-#text-area{
+ #text-area{
 	background-color: transparent;
 	align-content: center;
-	width: 60%;
-	height: 10rem;
-	border: 0.5px solid black;
-	margin-left: 4%;
-}
+	border: 0.5px solid #fff;
+	 
+ }
+ 
+
+
+
 .social{
 	text-align: center;
 	padding-top: 3rem;
@@ -150,9 +152,12 @@ H4{
 	cursor: pointer;
 }
 #submit{
-	background-color:rgb(134, 139, 134);
-	border: 2px solid greenyellow;
+	background-color:none;
+	border: 2px solid #fff;
 	margin-left: 3%;
 	border-radius: 4px;
+	padding: 0 1.5rem;
+	color: #fff;
+	
 	
 }
