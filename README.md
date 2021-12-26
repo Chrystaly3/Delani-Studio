@@ -4,7 +4,7 @@
 
 # By Josephine Mueni Nzioka
 
-# description
+# Description
 
 Delani Studio project
 
